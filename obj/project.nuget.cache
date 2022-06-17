@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lTjlU6SPSPIKH3txwPJntupP+znPOeeFTZFrWip7kKGRvontaULG7u2it21jQDXogvjs82bWNX4Hwqi/sawWSw==",
+  "dgSpecHash": "djgXc+t/VxJjR6rMpip6y942imvBhIvjoYiAOOjxrXgI7vmiE4mS2NSpEFLzFJMf3ZhCaFdADSVQcZBbu/P6hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CLARKSON PALACIO\\alvinclarksonkalasyo\\bsis3a-webapp.csproj",
+  "projectFilePath": "C:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\bsis3a-webapp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CLARKSON PALACIO\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\CLARKSON PALACIO\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CLARKSON PALACIO\\alvinclarksonkalasyo\\bsis3a-webapp.csproj": {}
+    "C:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\bsis3a-webapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CLARKSON PALACIO\\alvinclarksonkalasyo\\bsis3a-webapp.csproj": {
+    "C:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\bsis3a-webapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CLARKSON PALACIO\\alvinclarksonkalasyo\\bsis3a-webapp.csproj",
+        "projectUniqueName": "C:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\bsis3a-webapp.csproj",
         "projectName": "bsis3a-webapp",
-        "projectPath": "C:\\Users\\CLARKSON PALACIO\\alvinclarksonkalasyo\\bsis3a-webapp.csproj",
+        "projectPath": "C:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\bsis3a-webapp.csproj",
         "packagesPath": "C:\\Users\\CLARKSON PALACIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CLARKSON PALACIO\\alvinclarksonkalasyo\\obj\\",
+        "outputPath": "C:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CLARKSON PALACIO\\AppData\\Roaming\\NuGet\\NuGet.Config"

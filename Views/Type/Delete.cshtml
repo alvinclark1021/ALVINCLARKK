@@ -17,6 +17,9 @@
             <label asp-for="Type.Name"></label>
             <input asp-for="Type.Name" disabled type="text" class="form-control" >
             <span asp-validation-for="Type.Name" class="text-danger"></span>
+            <form method="post">
+                <button onclick="if(!confirm('Are You Sure You Want to Delete This Record')){return false}" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger"><i class="fa-solid fa-trash"></i></button>
+            </form>
         </div>
         <button type="submit" class="btn btn-danger">Delete</button>
         <a asp-action="Index" class="btn btn-success">Back</a>
