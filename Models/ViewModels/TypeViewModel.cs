@@ -28,7 +28,7 @@ namespace bsis3a_webapp.Models.ViewModel
              {
                   sli = new SelectListItem
                  {
-                    Text = item.Name , 
+                    Text = item.Name,
                     Value = item.Id.ToString()
                  };
                  ItemList.Add(sli);
