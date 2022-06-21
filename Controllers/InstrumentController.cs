@@ -10,10 +10,10 @@ using System.Linq;
 using Microsoft.AspNetCore.Hosting;
 using System.IO;
 
-namespace ALVINCLARKSONPALACIO.Controllers
+namespace bsis3a_webapp.Controllers
 {
-    public class InstrumentController
-    {
+     public class InstrumentController : Controller
+     {
          private readonly ApplicationDbContext _db;
          private readonly IWebHostEnvironment _hostingEnvironment;
 
@@ -103,7 +103,7 @@ namespace ALVINCLARKSONPALACIO.Controllers
 
                 if(files.Count != 0)
                 {
-                   var ImagePath = @"Images\Instrument\";
+                   var ImagePath = @"C:Images\Instrument\";
                    var Entension = Path.GetExtension(files[0].FileName);
                    var RelativeImagePath = ImagePath + InstrumentId + Entension;
                    var AbsImagePath = Path.Combine(wwwrootPath,RelativeImagePath);
@@ -163,5 +163,7 @@ namespace ALVINCLARKSONPALACIO.Controllers
                 return RedirectToAction("Index");
             
         }
-    }
+
+
+     }
 }
