@@ -10,7 +10,7 @@
         <div class="form-group">
             <input asp-for="Type.Id" hidden>
            <label asp-for="Items"></label>
-           <select asp-for="Type.ItemId" asp-items="Model.selectListItemss(Model.Items)" class="form-control"></select>
+           <select asp-for="Type.ItemId" asp-items="Model.selectListItems(Model.Items)" class="form-control"></select>
             <span asp-validation-for="Items" class="text-danger"></span>
         </div>
         <div class="form-group">

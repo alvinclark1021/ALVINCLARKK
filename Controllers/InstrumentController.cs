@@ -103,7 +103,7 @@ namespace bsis3a_webapp.Controllers
 
                 if(files.Count != 0)
                 {
-                   var ImagePath = @"C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\wwwroot\Images\Instrument";
+                   var ImagePath = @"C:Images\Instrument\";
                    var Entension = Path.GetExtension(files[0].FileName);
                    var RelativeImagePath = ImagePath + InstrumentId + Entension;
                    var AbsImagePath = Path.Combine(wwwrootPath,RelativeImagePath);

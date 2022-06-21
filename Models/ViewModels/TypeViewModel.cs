@@ -14,7 +14,7 @@ namespace bsis3a_webapp.Models.ViewModel
 
         public IEnumerable<Item> Items { get; set; }
 
-        public IEnumerable<SelectListItem> selectListItemss (IEnumerable<Item> Item)
+        public IEnumerable<SelectListItem> selectListItems (IEnumerable<Item> Item)
         {
             List<SelectListItem> ItemList = new List<SelectListItem>();
             SelectListItem sli = new SelectListItem
