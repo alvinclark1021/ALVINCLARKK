@@ -539,3 +539,4 @@ C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.dl
 C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\ref\bsis3a-webapp.dll
 C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.pdb
 C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.genruntimeconfig.cache
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\Razor\Views\Instrument\Edit.cshtml.g.cs
